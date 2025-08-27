@@ -29,5 +29,5 @@ This repository contains solutions for **Module 3: Control Structures in Python*
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/python-assignment2.git
+   git clone https://github.com/Rajupatil164/python-assignment2.git
    cd python-assignment2
